@@ -1,3 +1,0 @@
-# SUM
-
-cd sumtest
